@@ -1,7 +1,28 @@
-# membership-discount
+# WooCommerce Prorata Membership Discounts
 
-A pro rata membership discount plugin
+A prorata membership discount plugin for woocommerce
 
-This plugin allows you to add pro rata discounts to 'membership' products using coupons.
+## Install
 
-Each time a product is added to the basket that belongs to a defined category, this plugin will automatically add the relavant coupon to give the desired discount. 
+	• Download zip
+	• Upload to wp-content/plugins dir
+	• Activate
+
+## Settings
+
+	• Define the categories of products thet should be discunted
+	• Chhoose membership start date
+	• Choose cut off date for the month (i.e. mid - end of month)
+	• Define a custom notice (i.e. This produt has had a discount applied to it) - for overiding the standard coupon applied notie.
+
+## Contributing
+
+	Please see CONTRIBUTING for details
+
+## Credits
+
+	Martin Greenwood
+
+## Lisence
+
+	The MIT License (MIT). Please see License File for more information.
