@@ -1,11 +1,29 @@
 <?php
-
 /*
-Plugin Name: Membership Discount
-Description: a pro rata membership discount plugin.
-Version: 1.0
-Author: Martin Greenwood
-Author URI: http://www.pixelpudu.com/plugins/membership-discounts
+Plugin Name:    Membership Discount
+Description:    Monthly discounts for woocommerce memberships
+Version:        0.5
+Author:         Martin Greenwood
+Author URI:     http://www.pixelpudu.com
+Text Domain:    membership-discounts
+License:        GPL2
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+
+    Copyright 2015  Pixel Pudu  (email : office@pixelpudu.com)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2,
+    as published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+
+    The license for this software can likely be found here:
+    http://www.gnu.org/licenses/gpl-2.0.html
+    If not, write to the Free Software Foundation Inc.
+    51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 */
 
 include_once('woo-hooks.php');
